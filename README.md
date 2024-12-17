@@ -1,3 +1,6 @@
+
+## clone the project
+
 ## Open project
 
 - run these comands
